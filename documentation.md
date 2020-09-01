@@ -75,10 +75,16 @@ The website doesn't sell any goods and as so the distance selling act does not a
 
 ## Evaluation
 I believe I have been able to fully tackle the problem I set out to resolve. However as it’s a website for personal promotion it will be continuously updated with more content.
+
 I started of by designing wireframes to get an idea how I would like to lay out the website. One of the first challenges was making it responsive and transition between pages fluidly. I was able to achieve this by using css classes with transitions along with JavaScript to add or remove the classes on certain actions. The main actions are changing the pages to give the animations of the page transitioning to the next one.
+
 One of the earlier issues I encountered was with the title and nav bar moving, it has to be a fixed position. Because of this the content would display behind it. To solve this I added a top margin for the content to avoid this from happening however on further reflection I imagine there must be a better way to do this without changing how the website functions.
+
 I mainly used google chrome to test the website and changed the screen size within chrome to replicate a smaller screen. As most of the elements are positioned with percentages they automatically resized correctly. However due to how I added a top margin for the content to stop it displaying under the navigation bar, this issue occurred again when the navigation bar increased in height. To fix this I increased the margin size of the content, but only when the screen was a certain width.
+
 Only once I fully finished and tested in google chrome did I host the website with github pages to test on my phone. After testing on my phone I could see everything working correctly.
+
 As the website is simple in both design and content, the main work was around the javascript, mainly the slideshow on the portfolio page. However after researching some examples I felt comfortable implementing it within my website. 
+
 If I were to do this project again I would put more time into the design and how the website looks. Although neutral colours were used, it still gives off the look of blocks of colour.
 
