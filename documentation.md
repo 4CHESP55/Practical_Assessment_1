@@ -9,8 +9,9 @@ Due to the nature of the company I currently work at, I have chosen to create a 
 
 # Wire Frames
 **index page wireframe**
-![](doc-images/index-full.PNG)
-![](doc-images/index-mobile.PNG)
+<img src="doc-images/index-full.PNG" width="70%" />
+<img src="doc-images/index-mobile.PNG" width="20%" />
+
 
 **About Me page wireframe**
 ![](doc-images/about-full.PNG)
