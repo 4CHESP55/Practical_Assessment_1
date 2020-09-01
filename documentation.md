@@ -9,25 +9,33 @@ Due to the nature of the company I currently work at, I have chosen to create a 
 
 # Wire Frames
 **index page wireframe**
+<p>
 <img src="doc-images/index-full.PNG" width="70%" />
 <img src="doc-images/index-mobile.PNG" width="20%" />
-
+</p>
 
 **About Me page wireframe**
-![](doc-images/about-full.PNG)
-![](doc-images/about-mobile.PNG)
+<p>
+<img src="doc-images/about-full.PNG" width="70%" />
+<img src="doc-images/about-mobile.PNG" width="20%" />
 
 **Portfolio page wireframe**
-![](doc-images/portfolio-full.PNG)
-![](doc-images/portfolio-mobile.PNG)
+<p>
+<img src="doc-images/portfolio-full.PNG" width="70%" />
+<img src="doc-images/portfolio-mobile.PNG" width="20%" />
+</p>
 
 **CV page wireframe**
-![](doc-images/CV-full.PNG)
-![](doc-images/CV-mobile.PNG)
+<p>
+<img src="doc-images/CV-full.PNG" width="70%" />
+<img src="doc-images/CV-mobile.PNG" width="20%" />
+</p>
 
 **Contact Me page wireframe**
-![](doc-images/contact-full.PNG)
-![](doc-images/contact-mobile.PNG)
+<p>
+<img src="doc-images/contact-full.PNG" width="70%" />
+<img src="doc-images/contact-mobile.PNG" width="20%" />
+</p>
 
 # Colour Choices
 As it's a personal website I have decided on the colour scheme to be mainly greys. This is a neutral colour scheme and so will appear more formal. The colour has also been chosen partly because it is similar to the colours I have decorated my house with and is a colour I prefer.
