@@ -9,24 +9,24 @@ Due to the nature of the company I currently work at, I have chosen to create a 
 
 # Wire Frames
 **index page wireframe**
-![](doc-images/index-full.png)
-![](doc-images/index-mobile.png)
+![](doc-images/index-full.PNG)
+![](doc-images/index-mobile.PNG)
 
 **About Me page wireframe**
-![](doc-images/about-full.png)
-![](doc-images/about-mobile.png)
+![](doc-images/about-full.PNG)
+![](doc-images/about-mobile.PNG)
 
 **Portfolio page wireframe**
-![](doc-images/portfolio-full.png)
-![](doc-images/portfolio-mobile.png)
+![](doc-images/portfolio-full.PNG)
+![](doc-images/portfolio-mobile.PNG)
 
 **CV page wireframe**
-![](doc-images/CV-full.png)
-![](doc-images/CV-mobile.png)
+![](doc-images/CV-full.PNG)
+![](doc-images/CV-mobile.PNG)
 
 **Contact Me page wireframe**
-![](doc-images/contact-full.png)
-![](doc-images/contact-mobile.png)
+![](doc-images/contact-full.PNG)
+![](doc-images/contact-mobile.PNG)
 
 # Colour Choices
 As it's a personal website I have decided on the colour scheme to be mainly greys. This is a neutral colour scheme and so will appear more formal. The colour has also been chosen partly because it is similar to the colours I have decorated my house with and is a colour I prefer.
