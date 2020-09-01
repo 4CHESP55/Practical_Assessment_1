@@ -11,7 +11,7 @@ Due to the nature of the company I currently work at, I have chosen to create a 
 **index page wireframe**
 <p>
 <img src="doc-images/index-full.PNG" width="65%" />
-<img src="doc-images/index-mobile.PNG" width="25%" />
+<img src="doc-images/index-mobile.PNG" width="30%" />
 </p>
 
 **About Me page wireframe**
