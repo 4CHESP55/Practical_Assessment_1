@@ -10,7 +10,7 @@ Due to the nature of the company I currently work at, I have chosen to create a 
 ## Wire Frames
 **index page wireframe**
 <p>
-<img src="doc-images/index-full.PNG" width="65" />
+<img src="doc-images/index-full.PNG" width="65%" />
 <img src="doc-images/index-mobile.PNG" width="25%" />
 </p>
 
